@@ -40,11 +40,11 @@ npm install
 
 ## Screenshots
 
-![CreateNewListing](.\screenshots\createNewListing.png)
+![CreateNewListing](./screenshots\createNewListing.png)
 ![Home Page](./screenshots/home.png)
 ![Sign UP Page](./screenshots/signup.png)
-![EditListing](.\screenshots\editListing.png)
-![OneImageListing](.\screenshots\OneListingImg.png)
+![EditListing](./screenshots\editListing.png)
+![OneImageListing](./screenshots\OneListingImg.png)
 
 * Future imporvements
   Payment Integration
